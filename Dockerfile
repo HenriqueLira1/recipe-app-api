@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-LABEL Henrique Lira
+MAINTAINER Henrique Lira
 
 ENV PYTHONUNBUFFERED 1
 
